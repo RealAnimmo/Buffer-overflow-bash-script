@@ -1,3 +1,5 @@
+#!/bin/bash
+
 target () {
     echo $BOLD"What is the IP address of the target?"
     read targetIP
